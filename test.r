@@ -28,3 +28,4 @@ ages$Name <- factor(ages$Name)
 plot(ages)
 
 plot(model)
+
